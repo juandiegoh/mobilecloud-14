@@ -28,7 +28,6 @@ import org.apache.http.NoHttpResponseException;
 import org.apache.http.client.HttpClient;
 import org.apache.http.message.BasicHttpRequest;
 import org.magnum.mobilecloud.integration.test.InternalAutoGradingTest;
-import org.magnum.mobilecloud.integration.test.UnsafeHttpsClient;
 
 /**
  * This class allows you to estimate the score for your solution before handing it in.

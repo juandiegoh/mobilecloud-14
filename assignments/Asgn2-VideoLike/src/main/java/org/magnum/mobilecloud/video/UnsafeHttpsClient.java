@@ -1,4 +1,4 @@
-package org.magnum.mobilecloud.integration.test;
+package org.magnum.mobilecloud.video;
 
 import org.apache.http.client.HttpClient;
 import org.apache.http.conn.ssl.SSLConnectionSocketFactory;
